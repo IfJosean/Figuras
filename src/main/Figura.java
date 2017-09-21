@@ -5,6 +5,10 @@ package main;
  */
 public abstract class Figura implements Comparable<Figura{
 
+    /**
+     *
+     * @return
+     */
     public abstract double area();
 
 
