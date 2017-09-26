@@ -9,7 +9,12 @@ public abstract class Figura implements Comparable<Figura{
      *
      * @return
      */
-    public abstract double area();
+
+    public interface Figura {
+
+        double area();
+    }
+
 
 
 
