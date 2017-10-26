@@ -12,7 +12,7 @@ public abstract class Figura implements Comparable<Figura{
 
     public interface Figura {
 
-        double area();
+        double area(); //
     }
 
 
